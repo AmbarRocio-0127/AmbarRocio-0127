@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate with my knowledge in programming, helping those ones who need it.
 - 📧 How to contact me: ambarcaraballo.r@gmail.com
 - 📍 Youtube Channel: A Coding Girl https://www.youtube.com/channel/UCbPJWIMMMEM6VhVJJ2X43Zw
-- ⚡ Fun fact: I like reading📖, K-POP Music🎵🎶, Nature landscapes🏞️ and the acoustic guitar🎸. 
+- ⚡ Fun fact: I like reading📖, Music🎵🎶, Nature landscapes🏞️ and the acoustic guitar🎸. 
 
 #### Bye 🌟
