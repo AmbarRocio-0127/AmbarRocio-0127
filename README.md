@@ -6,9 +6,10 @@ I'm passionate about Technology and especially about Software Development. That'
 * 🚀 I work with **C#**, **Python**, and **SQL**.
 * 🌱 I'm currently learning and strengthening my knowledge in this areas.
 * 🗄️ I'm interested in **Databases, Data Analysis, and Software Development**.
+* 🤖 I'm curiously exploring AI tools and discovering how they can enhance software development and productivity.
 * 🧠 I enjoy learning new technologies and improving my programming skills through hands-on projects.
 * 👯 I'm looking to collaborate and share my knowledge in programming, helping those who need it.
-* ⚡ Fun fact: I love dogs 🐶, reading 📖, music 🎵🎶, nature landscapes 🏞️, and playing the acoustic guitar 🎸.
+* ⚡ Fun fact: I love dogs 🐶, reading 📖, music 🎵🎶, nature landscapes 🏞️, and the acoustic guitar 🎸.
 
 #### My Tech Stack 🛠️
 
