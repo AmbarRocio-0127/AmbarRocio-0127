@@ -31,5 +31,7 @@ I'm passionate about Technology and especially about Software Development. That'
 
 I'm constantly learning, building projects, and exploring new areas of technology. My goal is to keep growing as a Software Developer and in Data Analysis use my knowledge to create useful and meaningful solutions.
 
+#### Kisses, blessings & happy coding! 💻💜
+
 #### Bye 🌟
 
