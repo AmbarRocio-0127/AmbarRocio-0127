@@ -35,6 +35,10 @@ I'm passionate about Technology and especially about Software Development. That'
 
 I'm constantly learning, building projects, and exploring new technologies. My goal is to keep growing as a Software Developer, strengthen my skills in Data Analysis and Visualization, and discover new ways to use AI tools to create useful and meaningful solutions.
 
+<a href="mailto:herdevstudio@gmail.com">
+  <img src="https://img.shields.io/badge/💌%20Email-Contact%20Me-8A2BE2?style=for-the-badge" />
+</a>
+
 #### Kisses, blessings & happy coding! 💻💜
 
 #### Bye 🌟
