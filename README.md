@@ -39,9 +39,9 @@ I'm constantly learning, building projects, and exploring new technologies. My g
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=herdevstudio@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/💌%20Email-Contact%20Me-F4A6C1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="TU_URL_DE_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/badge/🎀%20YouTube-Come%20Code%20With%20Me-E89AB5?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎀%20YouTube-Check%20It%20Out-E89AB5?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
