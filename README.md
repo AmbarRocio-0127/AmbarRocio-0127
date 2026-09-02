@@ -1,8 +1,6 @@
-#### #### Hi there, Coding Community! 👋 My name is Ámbar ✨
+#### Hi there, Coding Community! 👋 My name is Ámbar ✨
 
 I'm passionate about Technology and especially about Software Development. That's why I'm **A Coding Girl**. 👩‍💻😊
-
-[svg](https://github.com/AmbarRocio-0127/AmbarRocio-0127#hi-there-coding-community--my-name-is-%C3%A1mbar--im-passionate-about-technology-and-especially-for-software-development-thats-why-im-a-coding-girl-%E2%80%8D)
 
 * 💻 I'm interested in **Web Development**, especially **Backend Development**.
 * 🚀 I work with **C#**, **Python**, and **SQL**.
@@ -30,7 +28,7 @@ I'm passionate about Technology and especially about Software Development. That'
 
 #### I'm Always Learning and exploring 💻✨
 
-I'm constantly learning, building projects, and exploring new areas of technology. My goal is to keep growing as a Software Developer and use my knowledge to create useful and meaningful solutions.
+I'm constantly learning, building projects, and exploring new areas of technology. My goal is to keep growing as a Software Developer and in Data Analysis use my knowledge to create useful and meaningful solutions.
 
 #### Bye 🌟
 
