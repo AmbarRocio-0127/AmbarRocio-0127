@@ -28,8 +28,6 @@ I'm passionate about Technology and especially about Software Development. That'
 **Databases**
 
 * 🗄️ SQL Server
-* 🐘 PostgreSQL
-* 🪶 SQLite
 
 #### I'm Always Learning and exploring 💻✨
 
