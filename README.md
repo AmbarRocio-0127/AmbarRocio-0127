@@ -3,7 +3,7 @@
 I'm passionate about Technology and especially about Software Development. That's why I'm **A Coding Girl**. 👩‍💻😊
 
 * 💻 I'm interested in **Web Development**, especially **Backend Development**.
-* 🛸 I work with **C#**, **Python** and **SQL**. 💫
+* 🛸 I'm in constant learning and practicing with **C#**, **Python** and **SQL**. 💫
 * 🌱 I'm currently learning and strengthening more my knowledge in this areas.
 * 🗄️ I'm focused on **Databases, Data Analysis and Software Development**.
 * 🤖 I'm curiously exploring AI tools and discovering how they can enhance software development and productivity.
